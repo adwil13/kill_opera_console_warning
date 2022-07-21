@@ -5,7 +5,7 @@
 Opera extension to kill console warning in developer tools.
 
 ### Mostly copied from stackoverflow:
-##ADD THE EXTENSION YOU JUST DOWNLOADED TO OPERA
+## ADD THE EXTENSION YOU JUST DOWNLOADED TO OPERA
 1. Open a new tab and go to: "opera://extensions"
 1. "Developer mode" should be enabled (top_right_corner)
 1. Click on the "Load unpacked" button (near top_left_corner)
@@ -16,7 +16,7 @@ Opera extension to kill console warning in developer tools.
 1. Tick the "Allow in Incognito" checkbox
 1. Tick the "Allow access to search page results" checkbox
 
-##LASTLY WE CHANGE ONE SETTING IN DEVTOOLS, RESTART OPERA AND THEN TEST IT
+## LASTLY WE CHANGE ONE SETTING IN DEVTOOLS, RESTART OPERA AND THEN TEST IT
 At this point if you refresh the DevTools it will appear the extension you created is working and the problem is solved. This extension uses two methods, one is a hack and the other is more robust. The hack will stop working one day. The robust method requires a setting to be changed.
 1. Close all instances of DevTools that you have open.
 1. Open a new normal window (not an incognito window).
